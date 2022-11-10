@@ -11,3 +11,5 @@ Ideal amount of inventory to have in back stock and storage
 How many products to reorder and how often
 When to discontinue a product
 How changing seasons affect sales
+
+![Fundamental-Analysis](https://user-images.githubusercontent.com/71986245/201070222-518e86e8-9e66-49ec-989a-13bc75e99d82.png)

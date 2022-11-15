@@ -15,7 +15,7 @@ How changing seasons affect sales
 ![Fundamental-Analysis](https://user-images.githubusercontent.com/71986245/201070222-518e86e8-9e66-49ec-989a-13bc75e99d82.png)
 
 
-![192087867-45a41390-7526-4816-91e5-be87be066d5d](https://user-images.githubusercontent.com/71986245/201898234-cf97d151-e532-47a5-8fa7-acf63763a37e.gif)
+                                      ![192087867-45a41390-7526-4816-91e5-be87be066d5d](https://user-images.githubusercontent.com/71986245/201898234-cf97d151-e532-47a5-8fa7-acf63763a37e.gif)
 
 ♣️PROJECT DESCRIPTION
 This dataset contains a lot of historical sales data of a Brazilian top retailer
@@ -23,3 +23,4 @@ This dataset contains a lot of historical sales data of a Brazilian top retailer
 Inventory analysis helps you determine the right amount of stock to keep on-hand to fill demand while avoiding spending too much on inventory storage. Inventory is an asset on a balance sheet and represents the product a company plans to sell to its customers eventually
 
 What is the purpose of store inventory? A store inventory is a record of all the items available for use in your daily business operations. The store inventory increases with purchases and decreases with sales or consumption. It is important to track changes in your inventory so you can evaluate business performance, set future plans or detect theft.
+![image](https://user-images.githubusercontent.com/71986245/201899165-d05d8651-0b9d-4d80-b8d9-6ebf37227ef7.png)

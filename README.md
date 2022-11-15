@@ -13,3 +13,6 @@ When to discontinue a product
 How changing seasons affect sales
 
 ![Fundamental-Analysis](https://user-images.githubusercontent.com/71986245/201070222-518e86e8-9e66-49ec-989a-13bc75e99d82.png)
+
+
+![192087867-45a41390-7526-4816-91e5-be87be066d5d](https://user-images.githubusercontent.com/71986245/201898234-cf97d151-e532-47a5-8fa7-acf63763a37e.gif)

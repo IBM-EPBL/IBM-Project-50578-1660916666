@@ -37,7 +37,3 @@ Inventory analysis helps you determine the right amount of stock to keep on-hand
 What is the purpose of store inventory? A store inventory is a record of all the items available for use in your daily business operations. The store inventory increases with purchases and decreases with sales or consumption. It is important to track changes in your inventory so you can evaluate business performance, set future plans or detect theft.
 
 ![image](https://user-images.githubusercontent.com/71986245/201899165-d05d8651-0b9d-4d80-b8d9-6ebf37227ef7.png)
-
-LINKS
-
-https://github.com/IBM-EPBL/IBM-Project-50578-1660916666/tree/main/Assessments

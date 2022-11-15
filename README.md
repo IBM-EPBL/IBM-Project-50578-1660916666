@@ -14,10 +14,16 @@ How changing seasons affect sales
 
 ![Fundamental-Analysis](https://user-images.githubusercontent.com/71986245/201070222-518e86e8-9e66-49ec-989a-13bc75e99d82.png)
 
+TEAM MEMBERS
+S BALAJI
+S SUDHARSAN
+A HARIVARATHAN
+S KIRUBANITHI
 
-                                      ![192087867-45a41390-7526-4816-91e5-be87be066d5d](https://user-images.githubusercontent.com/71986245/201898234-cf97d151-e532-47a5-8fa7-acf63763a37e.gif)
+![192087867-45a41390-7526-4816-91e5-be87be066d5d](https://user-images.githubusercontent.com/71986245/201898234-cf97d151-e532-47a5-8fa7-acf63763a37e.gif)
 
 ♣️PROJECT DESCRIPTION
+
 This dataset contains a lot of historical sales data of a Brazilian top retailer
 
 Inventory analysis helps you determine the right amount of stock to keep on-hand to fill demand while avoiding spending too much on inventory storage. Inventory is an asset on a balance sheet and represents the product a company plans to sell to its customers eventually
